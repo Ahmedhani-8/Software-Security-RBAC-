@@ -1,0 +1,5 @@
+com\ambeed\main\Main.class
+com\ambeed\main\Role.class
+com\ambeed\main\User.class
+com\ambeed\main\AccountService.class
+com\ambeed\main\Permission.class
